@@ -34,6 +34,8 @@ Note- I have provided the link to individual Kerala.csv and Conditional Probabil
 
 ## Using Kaggle Notebooks
 
-1. Go to [Kaggle.com]()
+1. Go to [Kaggle.com](https://www.kaggle.com/)
+2. Create an account using the official email provided by the university, then come back here and open the link below to access it.
+3. [Kaggle.com/AshainX/conditional-probability](https://www.kaggle.com/code/ashainx/a-case-study-with-conditional-probability/edit)
 
 
