@@ -22,10 +22,12 @@ Colab will initialize a virtual machine and connect you to it, which might take 
 5. Accessing Files
 You can upload files directly to Colab using the Files sidebar.
 Alternatively, you can access files from Google Drive by running:
-python
-Copy code
+```
 from google.colab import drive
 drive.mount('/content/drive')
-6. Save and Share the Notebook
+```
+6. Allow the warnings to access your Google Drive account and you can use the jupyter environment
 You can save your progress in Google Drive by going to File > Save.
 To share the notebook, click Share and set the permissions.
+
+
