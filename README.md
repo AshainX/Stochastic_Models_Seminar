@@ -42,7 +42,10 @@ Note- I have provided the link to individual Kerala.csv and Conditional Probabil
 
 
 # Videos I will recommend you guys go through to learn more about probability importance in machine learning 
-1 - CLT(Central limit theorem and other gaussian distribution by 3Blue1Brown) [LINK TO PLAYLIST](https://www.youtube.com/playlist?list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8)
-2 - Softmax Function uses in most of the machine learning algorithms by Bhavesh Bhatt [LINK TO PLAYLIST](https://www.youtube.com/watch?v=EuZZ6plg2Tk)
-3 - Deep Learning series by 3Blue1Brown for better understanding of Machine Learning and Deep Learning [LINK TO PLAYLIST](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=KdsSVuWjbFuFUjo2)
+If you feel like you want to learn how these mathematical things works in training a machine logic then you can start from the basics of Machine learning and deep learning
+
+## YouTube Links 
+1. CLT(Central limit theorem and other gaussian distribution by 3Blue1Brown) [LINK TO PLAYLIST](https://www.youtube.com/playlist?list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8)
+2. Softmax Function uses in most of the machine learning algorithms by Bhavesh Bhatt [LINK TO PLAYLIST](https://www.youtube.com/watch?v=EuZZ6plg2Tk)
+3. Deep Learning series by 3Blue1Brown for better understanding of Machine Learning and Deep Learning [LINK TO PLAYLIST](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=KdsSVuWjbFuFUjo2)
 
