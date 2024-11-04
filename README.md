@@ -36,6 +36,13 @@ Note- I have provided the link to individual Kerala.csv and Conditional Probabil
 
 1. Go to [Kaggle.com](https://www.kaggle.com/)
 2. Create an account using the official email provided by the university, then come back here and open the link below to access it.
-3. [Kaggle.com/AshainX/conditional-probability](https://www.kaggle.com/code/ashainx/a-case-study-with-conditional-probability/edit)
+3. [Kaggle.com/AshainX/conditional-probability](https://www.kaggle.com/ashainx/conditional-probability)
+4. On the top right corner you will see the Copy&Edit button, click on that. It will open a new window with the same contents and you can experiment with it
+5. Remember - Click on the section you want to run and press CTRL+Enter to run that particular section, starting from the beginning of the notebook.
 
+
+# Videos I will recommend you guys go through to learn more about probability importance in machine learning 
+1 - CLT(Central limit theorem and other gaussian distribution by 3Blue1Brown) [LINK TO PLAYLIST](https://www.youtube.com/playlist?list=PLZHQObOWTQDOMxJDswBaLu8xBMKxSTvg8)
+2 - Softmax Function uses in most of the machine learning algorithms by Bhavesh Bhatt [LINK TO PLAYLIST](https://www.youtube.com/watch?v=EuZZ6plg2Tk)
+3 - Deep Learning series by 3Blue1Brown for better understanding of Machine Learning and Deep Learning [LINK TO PLAYLIST](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=KdsSVuWjbFuFUjo2)
 
