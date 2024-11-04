@@ -4,7 +4,7 @@ Basically what I have shown in the classroom is from the probability methods use
 **Basic Needs**
  - Basics of Python 
 
-## How to access the file and run it on the local machine
+## How to access the file and run it on the local machine (Google Chrome)
 Login with your Gmail account which your University gives and access that account for it.
 Next steps are as follows - 
 1. Open Google Colab [Google Colab ](https://colab.research.google.com/)
@@ -29,5 +29,11 @@ drive.mount('/content/drive')
 6. Allow the warnings to access your Google Drive account and you can use the jupyter environment
 You can save your progress in Google Drive by going to File > Save.
 To share the notebook, click Share and set the permissions.
+
+Note- I have provided the link to individual Kerala.csv and Conditional Probability is given here inside the [GDrive](https://drive.google.com/drive/folders/1zipwlVcK0tKeCTMTA9w4DiR4Aijyspmx?usp=drive_link)
+
+## Using Kaggle Notebooks
+
+1. Go to [Kaggle.com]()
 
 
