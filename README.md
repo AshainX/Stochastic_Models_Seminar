@@ -1,7 +1,7 @@
 # HOW TO USE THESE FILES AND PPT 
 Basically what I have shown in the classroom is from the probability methods used in real-life scenarios and in general probability 
 
-**Basic Needs**
+**Requirements**
  - Basics of Python 
 
 ## How to access the file and run it on the local machine (Google Chrome)
